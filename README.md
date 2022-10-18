@@ -1,7 +1,20 @@
-# HTML-CSS Practice
+## Purpose
 
-This includes webhint, stylelint, and prettier.
+A website created to navigate through Horiseon Social Solution Services, Inc.
 
-VS Code settings are included to streamline the process. Stylelint extension and prettier are there too for real time feedback. Because of the settings, Prettier will auto-format whenever you move out of the file.
+## Built Using
 
-Run `npm install` to install the dependencies. Then, run `npm start` to start the server.
+HTML and CSS
+
+## Description
+
+A display tool that presents buisness solutions and aid with long-term options through Horiseon Social Solution Services. Horiseon provides services such as Seach-Engine Optimization, Online Reputation Management, and Social Media Marketing. Following up with explanations over topics such as Lead Generation, Cost Management, and Brand Awareness. HTML and CSS files were also a key tool to refactor and adjust the website accessibilty.
+
+## Website
+
+https://itsamish01.github.io/hw-1/
+
+## Contributions
+
+Made with ❤️️ by Horiseon
+2019 Horiseon Social Solution Services, Inc
